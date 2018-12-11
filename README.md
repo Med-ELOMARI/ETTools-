@@ -1,8 +1,8 @@
 # ETTools
-
+## a newbie project - 2015 
 Usage : put a text file named 'Input.txt' next to it 
 
-ETTools a C++ programme can mannage Millions of emails in seconds , the available options are :
+ETTools a C++ programme can mannage huge amount of emails in seconds , the available options are :
 
         -Filtring 
         With a list of custome emails from major email service provider the script can make a quick statistique of the Input.txt to count the number of each email provider So the output will be the chosen list of emails and it support :
