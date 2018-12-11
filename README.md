@@ -1,5 +1,5 @@
 # ETTools
-## a newbie project - 2015 
+## *A newbie project -  2015* 
 Usage : put a text file named 'Input.txt' next to it 
 
 ETTools a C++ programme can mannage huge amount of emails in seconds , the available options are :
